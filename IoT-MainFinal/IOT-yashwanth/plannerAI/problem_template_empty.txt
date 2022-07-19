@@ -1,0 +1,21 @@
+(define (problem SMSProblem)
+
+    (:domain SMSDomainFile)
+    
+    (:objects 
+OBJECTS_HERE
+    )
+    
+    (:init   
+STATE_HERE
+    )
+         
+    (:goal 
+        ( and
+
+GOAL_HERE
+                  
+        )
+    ) 
+
+)
